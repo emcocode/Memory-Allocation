@@ -1,2 +1,5 @@
 # Memory allocation for operating systems
-- Contains First-, Best-, and Worst fit.
+* Contains
+- First fit
+- Best fit
+- Worst fit
